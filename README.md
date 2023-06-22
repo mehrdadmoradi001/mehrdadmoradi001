@@ -16,11 +16,44 @@
 - 😄 Pronouns: he/him/his
 - 🌏 You can find me in social that is mentioned in bottom
 - 📨 Or for fast way just send me a Mail in moradi.mehrdad001@gmail.com
+- 💼 Tools: Android Studio, Xcode and Git
 
-Join Me In Socials!
+<br />
+
+<div align="center">
+<p align="center">Join Me In Socials!</p>
+<a href="https://www.twitter.com/MehrdaMoradi001/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+    
+<a href="https://medium.com/@moradi.mehrdad001/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mehrdadmoradi001/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/21671828/mehrdad-moradi?tab=profile">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+
+<a href="https://t.me/mehrdadmoradi001/">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+
+</div>
 
 
 ### Github Stats
 [![Mehrdad's Github Stats](https://github-readme-stats.vercel.app/api?username=mehrdadmoradi001&count_private=true&theme=cobalt&show_icons=true)](https://github.com/mehrdadmoradi001)
+
+
+<pre>
+</pre>
+
+
+
 
 
