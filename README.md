@@ -1,7 +1,7 @@
 <p align="center"><img width="70%"align="center" src="./assets/image_profile.png"</p>
 
 
-### Hey there, My name is Mehrdad Moradi and I am gald your are visiting my profile now! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
+### Hey there, My name is Mehrdad Moradi and I am glad you are visiting my profile now! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
 
 
 - 👑 I have a lot of passion to learn
