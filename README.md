@@ -45,13 +45,20 @@
 
 </div>
 
+<br />
 
-### Github Stats
+## Languages & Tools
+<div>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"width="75px">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"width="50px">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"width="90px">
+
+</div>
+
+<br />
+
+## Github Stats
 [![Mehrdad's Github Stats](https://github-readme-stats.vercel.app/api?username=mehrdadmoradi001&count_private=true&theme=cobalt&show_icons=true)](https://github.com/mehrdadmoradi001)
-
-
-<pre>
-</pre>
 
 
 
